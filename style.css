@@ -4,3 +4,11 @@
     box-sizing: border-box;
 }
 
+.large-text{
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.text{
+    color: #8A47F6;
+}
