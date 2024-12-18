@@ -4,11 +4,17 @@
     box-sizing: border-box;
 }
 
+
 .large-text{
-    font-size: 64px;
+    font-size: 61px;
     font-weight: 700;
 }
 
 .text{
     color: #8A47F6;
+}
+
+.image{
+    z-index: -1;
+    position: absolute;
 }
