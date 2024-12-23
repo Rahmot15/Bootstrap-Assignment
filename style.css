@@ -5,8 +5,16 @@
 }
 
 
+/* Gradient section */
+.image{
+    z-index: -1;
+    position: absolute;
+}
+
+
+/* Hero section */
 .large-text{
-    font-size: 61px;
+    font-size: 50px;
     font-weight: 700;
 }
 
@@ -14,7 +22,9 @@
     color: #8A47F6;
 }
 
-.image{
-    z-index: -1;
-    position: absolute;
+
+/* About us section */
+.aboutbg-color{
+    background-color: #f0e8fd;
+    background-color: 10%;
 }
