@@ -28,3 +28,21 @@
     background-color: #f0e8fd;
     background-color: 10%;
 }
+
+
+/* Portfolio section */
+
+.mt-t{
+    margin-top: 130px;
+}
+
+.ms-s{
+    margin-left: 6%;
+}
+
+@media only screen and (min-width: 1400px){
+
+    .ms{
+        margin-left: -208px;
+    }
+}
