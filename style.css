@@ -12,7 +12,7 @@
 }
 
 
-/* Hero section */
+/* Common css */
 .large-text{
     font-size: 50px;
     font-weight: 700;
@@ -45,4 +45,11 @@
     .ms{
         margin-left: -208px;
     }
+}
+
+
+
+/* price section */
+.bg-c{
+    background-color: #222222;
 }
